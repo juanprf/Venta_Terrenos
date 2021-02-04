@@ -1,0 +1,5 @@
+C:\Users\pc\Desktop\VentaDeTerrenos\UsuarioCache\bin\Release\UsuarioCache.dll
+C:\Users\pc\Desktop\VentaDeTerrenos\UsuarioCache\bin\Release\UsuarioCache.pdb
+C:\Users\pc\Desktop\VentaDeTerrenos\UsuarioCache\obj\Release\UsuarioCache.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\VentaDeTerrenos\UsuarioCache\obj\Release\UsuarioCache.dll
+C:\Users\pc\Desktop\VentaDeTerrenos\UsuarioCache\obj\Release\UsuarioCache.pdb

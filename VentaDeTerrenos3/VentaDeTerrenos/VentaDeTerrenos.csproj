@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{94C75C65-7C99-4593-8825-07CB01A15FF0}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VentaDeTerrenos</RootNamespace>
+    <AssemblyName>VentaDeTerrenos</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CircularProgressBar, Version=2.7.0.7, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.7.0.7\lib\net40\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BackEnd\Buscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackEnd\Buscar.Designer.cs">
+      <DependentUpon>Buscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackEnd\conexion.cs" />
+    <Compile Include="BackEnd\Config.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackEnd\Config.Designer.cs">
+      <DependentUpon>Config.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackEnd\DataBase.cs" />
+    <Compile Include="BackEnd\DataBasePrimitiva.cs" />
+    <Compile Include="BackEnd\Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackEnd\Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackEnd\MenuVentas2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackEnd\MenuVentas2.Designer.cs">
+      <DependentUpon>MenuVentas2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackEnd\PantallaUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackEnd\PantallaUsuarios.Designer.cs">
+      <DependentUpon>PantallaUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackEnd\Primer_inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackEnd\Primer_inicio.Designer.cs">
+      <DependentUpon>Primer_inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackEnd\Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackEnd\Ventas.Designer.cs">
+      <DependentUpon>Ventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackEnd\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackEnd\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackEnd\MenuVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackEnd\MenuVentas.Designer.cs">
+      <DependentUpon>MenuVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackEnd\RegistraUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackEnd\RegistraUsuario.Designer.cs">
+      <DependentUpon>RegistraUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrontEnd\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BackEnd\Buscar.resx">
+      <DependentUpon>Buscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackEnd\Config.resx">
+      <DependentUpon>Config.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackEnd\Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackEnd\MenuVentas2.resx">
+      <DependentUpon>MenuVentas2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackEnd\PantallaUsuarios.resx">
+      <DependentUpon>PantallaUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackEnd\Primer_inicio.resx">
+      <DependentUpon>Primer_inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackEnd\Ventas.resx">
+      <DependentUpon>Ventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackEnd\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackEnd\MenuVentas.resx">
+      <DependentUpon>MenuVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackEnd\RegistraUsuario.resx">
+      <DependentUpon>RegistraUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UsuarioCache\UsuarioCache.csproj">
+      <Project>{b3043da2-88b3-4b5b-aa90-f4dd701a54c5}</Project>
+      <Name>UsuarioCache</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

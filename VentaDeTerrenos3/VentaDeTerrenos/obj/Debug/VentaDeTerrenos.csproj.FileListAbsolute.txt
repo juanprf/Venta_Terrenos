@@ -1,0 +1,95 @@
+E:\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.csprojResolveAssemblyReference.cache
+E:\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Buscar.resources
+E:\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Config.resources
+E:\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Primer_inicio.resources
+E:\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Ventas.resources
+E:\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Login.resources
+E:\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.MenuVentas.resources
+E:\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.RegistraUsuario.resources
+E:\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.Properties.Resources.resources
+E:\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.csproj.GenerateResource.Cache
+E:\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.exe
+E:\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\VentaDeTerrenos.exe.config
+E:\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\VentaDeTerrenos.exe
+E:\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\VentaDeTerrenos.pdb
+E:\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.pdb
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\VentaDeTerrenos.exe.config
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\VentaDeTerrenos.exe
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\VentaDeTerrenos.pdb
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\MySql.Data.dll
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\Google.Protobuf.dll
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\Renci.SshNet.dll
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\MySql.Data.xml
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.csprojAssemblyReference.cache
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Buscar.resources
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Config.resources
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Loading.resources
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.MenuVentas2.resources
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Primer_inicio.resources
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Ventas.resources
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Login.resources
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.MenuVentas.resources
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.RegistraUsuario.resources
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.Properties.Resources.resources
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.csproj.GenerateResource.cache
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.csproj.CoreCompileInputs.cache
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.csproj.CopyComplete
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.exe
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.pdb
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\UsuarioCache.dll
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\UsuarioCache.pdb
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\VentaDeTerrenos.exe.config
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\VentaDeTerrenos.exe
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\VentaDeTerrenos.pdb
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\UsuarioCache.dll
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\Google.Protobuf.dll
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\Renci.SshNet.dll
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\UsuarioCache.pdb
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\bin\Debug\MySql.Data.xml
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Buscar.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Config.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Loading.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.MenuVentas2.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Primer_inicio.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Ventas.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Login.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.MenuVentas.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.RegistraUsuario.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.Properties.Resources.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.csproj.CopyComplete
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.exe
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.pdb
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.PantallaUsuarios.resources
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\bin\Debug\VentaDeTerrenos.exe.config
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\bin\Debug\VentaDeTerrenos.exe
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\bin\Debug\VentaDeTerrenos.pdb
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\bin\Debug\UsuarioCache.dll
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\bin\Debug\Google.Protobuf.dll
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\bin\Debug\Renci.SshNet.dll
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\bin\Debug\UsuarioCache.pdb
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\bin\Debug\MySql.Data.xml
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Buscar.resources
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Config.resources
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Loading.resources
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.MenuVentas2.resources
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.PantallaUsuarios.resources
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Primer_inicio.resources
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Ventas.resources
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.Login.resources
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.MenuVentas.resources
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.BackEnd.RegistraUsuario.resources
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.Properties.Resources.resources
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.csproj.CopyComplete
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.exe
+C:\Users\pc\Desktop\VentaDeTerrenos2\VentaDeTerrenos\obj\Debug\VentaDeTerrenos.pdb

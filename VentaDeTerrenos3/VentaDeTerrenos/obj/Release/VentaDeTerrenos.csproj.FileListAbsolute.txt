@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Release\VentaDeTerrenos.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Release\VentaDeTerrenos.BackEnd.Buscar.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Release\VentaDeTerrenos.BackEnd.Config.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Release\VentaDeTerrenos.BackEnd.Loading.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Release\VentaDeTerrenos.BackEnd.MenuVentas2.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Release\VentaDeTerrenos.BackEnd.PantallaUsuarios.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Release\VentaDeTerrenos.BackEnd.Primer_inicio.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Release\VentaDeTerrenos.BackEnd.Ventas.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Release\VentaDeTerrenos.BackEnd.Login.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Release\VentaDeTerrenos.BackEnd.MenuVentas.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Release\VentaDeTerrenos.BackEnd.RegistraUsuario.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Release\VentaDeTerrenos.Properties.Resources.resources
+C:\Users\pc\Desktop\VentaDeTerrenos\VentaDeTerrenos\obj\Release\VentaDeTerrenos.csproj.GenerateResource.cache

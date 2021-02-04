@@ -1,0 +1,11 @@
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\UsuarioCache\bin\Debug\UsuarioCache.dll
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\UsuarioCache\bin\Debug\UsuarioCache.pdb
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\UsuarioCache\obj\Debug\UsuarioCache.csprojAssemblyReference.cache
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\UsuarioCache\obj\Debug\UsuarioCache.csproj.CoreCompileInputs.cache
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\UsuarioCache\obj\Debug\UsuarioCache.dll
+C:\Users\LOPMIP\OneDrive\Universidad\Tercer_Semestre\Programacion\SharpDevelop Projects\VentaDeTerrenos\UsuarioCache\obj\Debug\UsuarioCache.pdb
+C:\Users\pc\Desktop\VentaDeTerrenos\UsuarioCache\bin\Debug\UsuarioCache.dll
+C:\Users\pc\Desktop\VentaDeTerrenos\UsuarioCache\bin\Debug\UsuarioCache.pdb
+C:\Users\pc\Desktop\VentaDeTerrenos\UsuarioCache\obj\Debug\UsuarioCache.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\VentaDeTerrenos\UsuarioCache\obj\Debug\UsuarioCache.dll
+C:\Users\pc\Desktop\VentaDeTerrenos\UsuarioCache\obj\Debug\UsuarioCache.pdb
